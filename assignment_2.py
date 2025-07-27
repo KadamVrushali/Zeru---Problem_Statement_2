@@ -6,7 +6,7 @@ from sklearn.neighbors import LocalOutlierFactor
 from sklearn.ensemble import IsolationForest
 
 def get_address_full_transaction_history(address: str):
-    api_key = "N1P2JRWWIW5PE9PZ8VQGAJ724RBNSRM78Z"  # replace with your Etherscan API key
+    api_key = "API_KEY"  # replace with your Etherscan API key
     full_transactions = []
     next_block = 0
 
