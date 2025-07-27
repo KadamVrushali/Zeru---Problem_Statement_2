@@ -69,13 +69,13 @@ Given tasks:
 1. **All Steps:**
 
    ```bash
-   python scripts/assignment_2.py
+   python assignment_2.py
    ```
 
-2. **Assign scores:**
+2. **Output csv file:**
 
    ```bash
-   python scripts/assign_scores.py
+   python wallet_risk_csv.py
    ```
 
 ---
