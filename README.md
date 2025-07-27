@@ -93,9 +93,8 @@ wallet_id,score
 ## ✍️ Author
 
 Vrushali Kadam – Research Intern | AI + Blockchain
-GitHub: \[your-username]
-LinkedIn: \[your-profile]
+GitHub: https://github.com/kadamvrushali
+LinkedIn: https://www.linkedin.com/in/vrushalikadam14
 
 ---
 
-Let me know if you’d like to include visuals or convert it to a PDF for your submission.
