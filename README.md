@@ -1,8 +1,5 @@
 #  🌟 Wallet Risk Scoring From Scratch
 
-Here’s a clean and concise **README.md** for **Problem Statement 2 – Wallet Risk Scoring**. It explains the goal, steps, and how to run everything:
-
----
 
 # 💼 Wallet Risk Scoring – Compound V2/V3
 
