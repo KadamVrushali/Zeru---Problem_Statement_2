@@ -9,7 +9,7 @@ This project calculates **risk scores (0–1000)** for Ethereum wallets based on
 
 ## 📌 Problem Statement
 
-Given a list of wallet addresses, your task is to:
+Given tasks:
 
 1. **Fetch** their DeFi transaction history from Compound V2/V3.
 2. **Preprocess** the data and extract meaningful behavioral features.
