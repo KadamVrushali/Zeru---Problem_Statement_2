@@ -1,5 +1,4 @@
-# Zeru---Problem_Statement_2
-Wallet Risk Scoring From Scratch
+#  🌟 Wallet Risk Scoring From Scratch
 
 Here’s a clean and concise **README.md** for **Problem Statement 2 – Wallet Risk Scoring**. It explains the goal, steps, and how to run everything:
 
